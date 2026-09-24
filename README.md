@@ -13,7 +13,7 @@ Finetuned **Qwen2.5-1.5B-Instruct** with **QLoRA** to classify speaker intent an
 | Base Qwen2.5-1.5B — strict schema | 0.5% | — |
 | Base Qwen2.5-1.5B — lenient scoring | — | 41.5% |
 | **Finetuned (QLoRA)** — validation | **100%** | **90.5%** |
-| **Finetuned (QLoRA)** — gem (harder split) | **[GEM_VALIDITY]%** | **[GEM_ACC]%** |
+| **Finetuned (QLoRA)** — gem (harder split) | **100%** | **37.9%** |
 
 Finetuning delivered two distinct wins:
 
